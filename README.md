@@ -9,7 +9,7 @@ Check out my [website](https://dekares.github.io)!
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=golang)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -33,5 +33,4 @@ Check out my [website](https://dekares.github.io)!
 <a href="https://www.linkedin.com/in/emirhan-aslan-2421b81b5/"><img src="https://img.shields.io/badge/-Emirhan%20Aslan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dekares.01@gmail.com"><img src="https://img.shields.io/badge/-dekares.01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-dekares%234379-3423A6?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://instagram.com/iaemirhan"><img src="https://img.shields.io/badge/-@iaemirhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
