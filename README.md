@@ -9,7 +9,7 @@ Check out my [website](https://dekares.github.io)!
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=javascript)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=golang)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
