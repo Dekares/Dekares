@@ -1,7 +1,4 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Dekares -->
-
 <h1 align="center">Hi 👋, I'm Dekares</h1>
-<h4 align="center" >16 y/o Software Developer </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
