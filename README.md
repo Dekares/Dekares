@@ -33,6 +33,6 @@ Check out my [website](https://dekares.github.io)!
 <a href="https://dekares.github.io/"><img src="https://img.shields.io/badge/-dekares.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/emirhan-aslan-2421b81b5/"><img src="https://img.shields.io/badge/-Emirhan%20Aslan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dekares.01@gmail.com"><img src="https://img.shields.io/badge/-dekares.01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-dekares#4379-E4405F?style=flat&logo=Discord&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-dekares%234379-3423A6?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://instagram.com/iaemirhan"><img src="https://img.shields.io/badge/-@iaemirhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
