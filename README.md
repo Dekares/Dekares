@@ -1,6 +1,5 @@
 ![Aditya Vikram Singh Banner](https://cdn.discordapp.com/attachments/452001720055234581/925084600366153808/logo_png.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
