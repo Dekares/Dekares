@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dekares</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+### About Me
 
 16 years old interested cyber security, python lover.
 Check out my [website](https://dekares.github.io)!
 
 
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
@@ -14,7 +14,7 @@ Check out my [website](https://dekares.github.io)!
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Dekares">
@@ -23,7 +23,7 @@ Check out my [website](https://dekares.github.io)!
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### Connect with Me
 
 <p align="center">
 <a href="https://dekares.github.io/"><img src="https://img.shields.io/badge/-dekares.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
