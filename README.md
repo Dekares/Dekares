@@ -19,7 +19,7 @@ Check out my [website](https://dekares.github.io)!
 <p align="center">
 <a href="https://github.com/Dekares">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dekares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dekares&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dekares&layout=compact&hide=html&theme=radical"/>
 </a>
 </p>
 
