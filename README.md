@@ -1,5 +1,5 @@
 ### Cyber Security
-[![Tryhackme](https://img.shields.io/badge/Tryhackme-dekares-green.svg)](https://tryhackme.com/p/dekares)<br>
+[![Tryhackme](https://img.shields.io/badge/Tryhackme-Dekares-green.svg)](https://tryhackme.com/p/Dekares)<br>
 
 ### Technologies
 
