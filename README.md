@@ -5,7 +5,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
-![Flask](https://img.shields.io/badge/-C++-05122A?style=flat&logo=flask%2B%2B&logoColor=00599C)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=00599C)&nbsp;
 
 ### Contact
 
