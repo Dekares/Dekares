@@ -7,6 +7,13 @@
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=00599C)&nbsp;
 
+### GitHub Analytics
+
+
+<a href="https://github.com/Dekares">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dekares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+
 ### Contact
 
 <p align="center">
@@ -15,13 +22,4 @@
 <a href="mailto:dekares.01@gmail.com"><img src="https://img.shields.io/badge/-dekares.01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-dekares%234379-3423A6?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
-
-### GitHub Analytics
-
-
-<a href="https://github.com/Dekares">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dekares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
 
