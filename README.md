@@ -1,25 +1,75 @@
-### Cyber Security
-[![Tryhackme](https://img.shields.io/badge/Tryhackme-Dekares-green.svg)](https://tryhackme.com/p/Dekares)<br>
+<h1 align="center">Hi, I'm Emirhan Ömer Aslan 👋</h1>
 
-### Technologies
+<p align="center">
+  Computer Engineering Student · Building practical tools, data-driven projects and clean web apps
+</p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=00599C)&nbsp;
+<p align="center">
+  <a href="https://dekares.github.io/">Portfolio</a> ·
+  <a href="https://github.com/Dekares">GitHub</a>
+</p>
 
-### GitHub Analytics
+---
 
+### About me
 
-<a href="https://github.com/Dekares">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dekares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
+I'm a Computer Engineering student based in Turin, Italy.  
+I enjoy building small but useful software projects that solve real problems — from automation tools and data analysis projects to web apps and security-focused experiments.
+
+Currently, I'm focused on improving my skills in:
+
+- Python development
+- Data analysis and automation
+- Web applications
+- Cybersecurity fundamentals
+- Clean project structure and documentation
+
+---
+
+### Featured Projects
+
+#### [CasaPing](https://github.com/Dekares/casa-ping)
+A self-hosted rental alert bot for Italy.  
+It reads rental alert emails, filters listings by custom rules, and sends useful matches to Telegram.
+
+#### [Cost of Living](https://github.com/Dekares/cost-of-living)
+An exploratory data analysis project comparing affordability across major European student cities.
+
+#### [Football Quiz](https://github.com/Dekares/Football-quiz)
+A football-themed quiz web app designed as a fun, interactive portfolio project.
+
+#### [Basic Port Scanner](https://github.com/Dekares/basic-port-scanner)
+A simple port scanner built to practice networking and cybersecurity fundamentals.
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dekares&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dekares&layout=compact&theme=transparent&hide_border=true" height="160" />
+</p>
+
+---
 
 ### Contact
 
-<p align="center">
-<a href="https://dekares.github.io/"><img src="https://img.shields.io/badge/-dekares.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/emirhan-aslan-2421b81b5/"><img src="https://img.shields.io/badge/-Emirhan%20Aslan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dekares.01@gmail.com"><img src="https://img.shields.io/badge/-dekares.01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-dekares%234379-3423A6?style=flat&logo=Discord&logoColor=white"/></a>
-</p>
+You can find my work here:
 
+- Portfolio: [dekares.github.io](https://dekares.github.io/)
+- GitHub: [github.com/Dekares](https://github.com/Dekares)
+
+---
